@@ -1,1 +1,1 @@
-This repo is just for my templates, so I can just pull and go. There is nothing special to see here.
+This repo is just for my templates, so I can just fetch and go. There is nothing special to see here.
